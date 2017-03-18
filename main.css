@@ -1,0 +1,11 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:200,300');
+
+body {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    color:#fff;
+    background-color: #000;
+    font-family: 'Open Sans',Arial,Helvetica,Sans-Serif;
+  background-size: 99%;
+}
